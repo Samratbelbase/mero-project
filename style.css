@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: orangered;
+}
+.talk{
+    border: none;
+    background-color: thistle;
+    
+}
+.article{
+    border: none;
+    background-color: thistle;
+    margin-left: 10px;
+    
+}
+.read{
+    border: none;
+    background-color: thistle;
+    text-align: right;
+    margin-left: 295px;
+    
+}
+.new{
+    border: none;
+    background-color: thistle;
+    text-align: right;
+    
+    
+}
+.history{
+    border: none;
+    background-color: thistle;
+    text-align: right;
+}
+   .edit{
+    border: none;
+    background-color: thistle;
+    text-align: right;
+   } 
+}
+.search-box{
+    margin-left:780px;
+    position: absolute;
+   background: #2f3640;
+   border-radius: 5%;
+   
+    
+}
+.image{
+    height: 200px;
+    width: auto;
+    display: block;
+    position: absolute;
+    margin-left: 580px;
+}
